@@ -18,14 +18,24 @@ One of the most important issues for traction battery manufacturers and their us
 
 ## Download
 
-<i class="fab fa-windows"></i> [Download Demo]() (32 MB)
+<i class="fa fa-download"></i> [Download Demo]() (32 MB)
+
+**PzFORK** will likely run on a modern dual core PC. 
+
+Minimum configuration is:
+
+<i class="fab fa-microchip"></i> Dual Core CPU (2.0 Ghz+)
+<i class="fa fa-memory"></i> 4GB of RAM
+<i class="fab fa-windows"></i> Windows 10
+
+<i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Note that it may run on lower end equipment though good performance is not guaranteed.
 
 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> For **PzFORK** targeting **Windows < 10**, the user needs to take special care to include the **Visual C++** run-time .dll. For Windows Vista through Windows 8.1 there are Windows update packages, which may or may not be installed in the target-system. 
 If you encounter an error, download and install [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
 
 ## Pricing
 
-<i class="fab fa-windows"></i> Full version - **450$**
+<i class="fa fa-shopping-cart"></i> Full version - **450$**
 
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.		
