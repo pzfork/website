@@ -19,13 +19,13 @@ One of the most important issues for traction battery manufacturers and their us
 ## Download
 
 <i class="fa fa-download"></i> [Download Demo](https://github.com/pzfork/website/releases/download/demo/PzFORK_DEMO.exe) (32 MB)
+
 <i class="fa fa-key"></i> Password: **pzfork.com**
 
 ## Minimum Requirements
 
 **PzFORK** will likely run on a modern dual core PC. 
 
-Minimum configuration:
 
 &nbsp; <i class="fa fa-microchip"></i> Dual Core CPU (2.0 Ghz+)
 
@@ -45,4 +45,4 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.		
 
-Mail: [info@pzfork.com](mailto:info@pzfork.com)
+<i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [info@pzfork.com](mailto:info@pzfork.com)
