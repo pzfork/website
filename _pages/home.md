@@ -10,7 +10,7 @@ header:
 excerpt: >
   Forklift Battery Pack Optimization
 ---
-# Intro
+# What is PzFORK?
 One of the most important issues for traction battery manufacturers and their users, is the optimized sorting and arrangement of the battery container in forklifts. Choosing the optimization way is a time-consuming process and sometimes, results the inefficient arrangement. **PzFORK** is a software package that suggest the optimized layout of traction battery container in various sizes, voltages and capacities. Based on the user’s need, the priority of the suggestions determined in order of the maximum battery capacity with the largest occupied area and volume of the container. **PzFORK** database supports 13 brands of the most popular battery manufacturers around the world such as; SUNLIGHT, MIDAC, FAAM, HAWKER, GNB EXIDE, GS YUASA, BAE BERLIN, HOPPECKE, ZIBO TORCH, TIANNENG, EVEREXCEED, CNBATTE and SABA in two international battery standards (DIN and BS) PzS and PzB models. The export file includes 2D technical plan of the battery container in two views (top and side) what is also, mentioned the specific characterization of the container and battery.
 {: .text-justify}
 
@@ -18,7 +18,10 @@ One of the most important issues for traction battery manufacturers and their us
 
 ## Download
 
-<i class="fa fa-download"></i> [Download Demo]() (32 MB)
+<i class="fa fa-download"></i> [Download Demo](https://github.com/pzfork/website/releases/download/demo/PzFORK_DEMO.exe) (32 MB)
+<i class="fa fa-key"></i> Password: **pzfork.com**
+
+## Minimum Requirements
 
 **PzFORK** will likely run on a modern dual core PC. 
 
@@ -37,7 +40,7 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 
 ## Pricing
 
-<i class="fa fa-shopping-cart"></i> Full version - **450$**
+<i class="fa fa-shopping-cart"></i> Full version - **400$**
 
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.		
