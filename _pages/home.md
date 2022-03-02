@@ -24,8 +24,10 @@ One of the most important issues for traction battery manufacturers and their us
 
 Minimum configuration is:
 
-<i class="fab fa-microchip"></i> Dual Core CPU (2.0 Ghz+)
+<i class="fa fa-microchip"></i> Dual Core CPU (2.0 Ghz+)
+
 <i class="fa fa-memory"></i> 4GB of RAM
+
 <i class="fab fa-windows"></i> Windows 10
 
 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Note that it may run on lower end equipment though good performance is not guaranteed.
