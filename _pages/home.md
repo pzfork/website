@@ -40,15 +40,15 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 
 ## Pricing
 
-<i class="fa fa-shopping-cart"></i> Full version - **450$**
+<i class="fa fa-shopping-cart"></i> Full Version - **450$**
 
-<i class="fa fa-shopping-cart"></i> Report pack
+<i class="fa fa-shopping-cart"></i> Report Pack
 
 <ul>
-	<li>1-20 reports - 5$ per report</li>
-	<li>21-50 reports - 4$ per report</li>
-	<li>51-100 reports - 3.5$ per report</li>
-	<li>+100 reports - 3$ per report</li>
+	<li>1-20 - <strong>5$</strong> per report</li>
+	<li>21-50 - <strong>4.5$</strong> per report</li>
+	<li>51-100 - <strong>4$</strong> per report</li>
+	<li>+100 - <strong>3.5$</strong> per report</li>
 </ul>
 
 
