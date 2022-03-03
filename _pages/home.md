@@ -35,12 +35,22 @@ One of the most important issues for traction battery manufacturers and their us
 
 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Note that it may run on lower end equipment though good performance is not guaranteed.
 
-<i class="fa fa-exclamation-triangle" aria-hidden="true"></i> For **PzFORK** targeting **Windows < 10**, the user needs to take special care to include the **Visual C++** run-time .dll. For Windows Vista through Windows 8.1 there are Windows update packages, which may or may not be installed in the target-system. 
+<i class="fa fa-exclamation-triangle" aria-hidden="true"></i> For **PzFORK** targeting **Windows < 10**, the user needs to take special care to include the **Visual C++** run-time .dll. For **Windows Vista** through **Windows 8.1** there are Windows update packages, which may or may not be installed in the target-system. 
 If you encounter an error, download and install [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
 
 ## Pricing
 
-<i class="fa fa-shopping-cart"></i> Full version - **400$**
+<i class="fa fa-shopping-cart"></i> Full version - **450$**
+
+<i class="fa fa-shopping-cart"></i> Report pack
+
+<ul>
+	<li>1-20 reports - 5$ per report</li>
+	<li>21-50 reports - 4$ per report</li>
+	<li>51-100 reports - 3.5$ per report</li>
+	<li>+100 reports - 3$ per report</li>
+</ul>
+
 
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.		
