@@ -55,26 +55,56 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.	
 
-<form action="https://formspree.io/f/xwkybnkp" method="POST"> 
-  <label>
-    Name:
-    <input type="text" name="name">
-  </label>
-  <label>
-    Company:
-    <input type="text" name="company">
-  </label>
-  <label>
-    Email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  /* paste this line in verbatim */
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  /* customize formbutton below*/     
+  formbutton("create", {
+    action: "https://formspree.io/f/xwkybnkp",
+    title: "How can we help?",
+    fields: [
+	  { 
+        type: "text", 
+        label: "Name:", 
+        name: "name",
+        required: true,
+        placeholder: "Your name"
+      },
+      { 
+        type: "text", 
+        label: "Company:", 
+        name: "text",
+        required: false,
+        placeholder: "Your company"
+      },
+      { 
+        type: "email", 
+        label: "Email:", 
+        name: "email",
+        required: true,
+        placeholder: "your@email.com"
+      },
+      {
+        type: "textarea",
+        label: "Message:",
+        name: "message",
+        required: true,
+        placeholder: "What's on your mind?",
+      },
+      { type: "submit" }      
+    ],
+    styles: {
+      title: {
+        backgroundColor: "gray"
+      },
+      button: {
+        backgroundColor: "gray"
+      }
+    }
+  });
+</script>
 
 
 	
