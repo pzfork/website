@@ -53,7 +53,7 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 
 
 ## Need Additional Information?
-Feel free to contact us should you have questions or require further information on specific topics.	
+Feel free to contact us by **email** or **contact form**.
 
 
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
@@ -102,7 +102,8 @@ Feel free to contact us should you have questions or require further information
       button: {
         backgroundColor: "gray"
       }
-    }
+    },
+    initiallyVisible: true
   });
 </script>
 
