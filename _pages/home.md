@@ -55,22 +55,28 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 ## Need Additional Information?
 Feel free to contact us should you have questions or require further information on specific topics.	
 
-<form
-  action="https://formspree.io/f/xnqwvvkr"
-  method="POST"
->
+<form action="https://formspree.io/f/xwkybnkp" method="POST"> 
   <label>
-    Your email:
+    Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Company:
+    <input type="text" name="company">
+  </label>
+  <label>
+    Email:
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Message:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-	
 
+
+	
 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [info@pzfork.com](mailto:info@pzfork.com)
 
