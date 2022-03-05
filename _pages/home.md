@@ -111,3 +111,5 @@ Feel free to contact us by **email** or **contact form**.
 	
 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [info@pzfork.com](mailto:info@pzfork.com)
 
+<i class="fas fa-fw fa-envelope" aria-hidden="true"></i> [pzfork@yahoo.com](mailto:pzfork@yahoo.com)
+
