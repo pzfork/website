@@ -31,7 +31,7 @@ One of the most important issues for traction battery manufacturers and their us
 
 &nbsp; <i class="fa fa-memory"></i> 4GB of RAM
 
-&nbsp; <i class="fab fa-windows"></i> Windows Vista(SP2-6.0.6002)
+&nbsp; <i class="fab fa-windows"></i> Windows Vista
 
 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Note that it may run on lower end equipment though good performance is not guaranteed.
 
