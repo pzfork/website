@@ -72,9 +72,9 @@ We will respond you in Less than <strong>24</strong> hours.
 
 <i class="fab fa-paypal"></i> [PayPal](https://www.paypal.me/pejmansalimi)
 
-<i class="fa fa-wallet"></i> Tether(TRX-USDT)   : xxxx 
+<i class="fa fa-wallet"></i> Tether(TRX-USDT)   : <strong>TJRZxbft3JCgWijuHjQuVLpT22CXGoGw6z</strong>
 
-<i class="fa fa-wallet"></i> Tether(ETH-USDT)   : xxxx 
+<i class="fa fa-wallet"></i> Tether(ETH-USDT)   : <strong>0xFB27Ed4eFf0d434D653FEACF8E5755179a8Dcc4d</strong> 
 
 ## Need Additional Information?
 Feel free to contact us by **email** or **contact form**.
