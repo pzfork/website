@@ -11,7 +11,7 @@ excerpt: >
   Forklift Battery Pack Optimization
 ---
 # What is PzFORK?
-One of the most important issues for traction battery manufacturers and their users is the optimized sorting and arrangement of the battery container in forklifts. Choosing the optimization way is a time-consuming process and sometimes, results in an inefficient arrangement. **PzFORK** is a software package that suggests the optimized layout of traction battery container in various sizes, voltages, and capacities. Based on the user’s need, the priority of the suggestions is determined in order of the maximum battery capacity with the largest occupied area and volume of the container. **PzFORK** database supports 13 brands of the most popular battery manufacturers around the world such as; SUNLIGHT, MIDAC, FAAM, HAWKER, GNB EXIDE, GS YUASA, BAE BERLIN, HOPPECKE, ZIBO TORCH, TIANNENG, EVEREXCEED, CNBATTE, and SABA in two international battery standards (DIN and BS) PzS and PzB models. The export file includes a 2D technical plan of the battery container in two views (top and side) what is also, mentioned the specific characterization of the container and battery.
+One of the most important issues for traction battery manufacturers and their users is the optimized sorting and arrangement of the battery container in forklifts. Choosing the optimized arrangement is a time-consuming process and sometimes, results will be in an inefficient array. **PzFORK** is a software package that suggests the optimized layout of traction battery container in various sizes, voltages, and capacities. Based on the user’s need, the priority of the suggestions is determined in order of the maximum battery capacity with the largest occupied area and volume of the container. **PzFORK** database supports 13 brands of the most popular battery manufacturers around the world such as; SUNLIGHT, MIDAC, FAAM, HAWKER, GNB EXIDE, GS YUASA, BAE BERLIN, HOPPECKE, ZIBO TORCH, TIANNENG, EVEREXCEED, CNBATTE, and SABA in two international battery standards (DIN and BS) PzS and PzB models. The export file includes a 2D technical plan of the battery container in two views (top and side) what is also, mentioned the specific characterization of the container and battery.
 {: .text-justify}
 
 <img width="70%" src="assets/PzFORK.gif">
@@ -44,13 +44,35 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 
 <i class="fa fa-shopping-cart"></i> Report Pack
 
+If you don’t like to buy a full version of the software, you can still use the application by email us your requested forklift battery container specification as following: 
+<ol>
+    <li>Battery brand</li>
+    <li>Battery type (PzS/PzB)</li>
+    <li>Container voltage</li>
+    <li>Dimensions of the container (L*W*h in cm)</li>
+    <li>Minimum height tolerance</li>
+</ol>
+The price of each technical report based on the number of your requested battery container specification is as follows: 
 <ul>
-	<li>1-20 - <strong>5$</strong> per report</li>
-	<li>21-50 - <strong>4.5$</strong> per report</li>
-	<li>51-100 - <strong>4$</strong> per report</li>
-	<li>+100 - <strong>3.5$</strong> per report</li>
+    <li>Up to 20 different container spec, 2.5$ per report</li>
+    <li>For 21-50 different container spec, 2$ per report</li>
+    <li>For 51-100 different container spec, 1.5$ per report</li>
+    <li>For +100 different container spec, 1$ per report</li>
 </ul>
+Example:
+If you have 30 different battery containers (The variation just can be in total voltage and the container dimensions), you should email us the above 5 mentioned container specification.
+Then, we will prepare for you a ZIP file includes 30 CSV files of the preferred optimized data with 150 JPEG files of  technical drawing and data  for the five top optimized configuration. 
+The total payment for the process will be 60$  (2$x30). 
+Certainly you must download the demo version of the software to better understand the report ordering process.
 
+For the finalizing the purchase process, you should pay the total price by the mentioned gateways in below and email us the payment receipt. 
+We will respond you in Less than 24 hours. 
+
+<i class="fab fa-paypal"></i> [PayPal](https://www.paypal.me/pejmansalimi)
+
+<i class="fa fa-wallet"></i> Tether(USDT-TRX)   : xxxx 
+
+<i class="fa fa-wallet"></i> Tether(USDT-ERC20) : xxxx 
 
 ## Need Additional Information?
 Feel free to contact us by **email** or **contact form**.
