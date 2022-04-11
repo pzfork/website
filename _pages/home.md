@@ -31,7 +31,7 @@ One of the most important issues for traction battery manufacturers and their us
 
 &nbsp; <i class="fa fa-memory"></i> 4GB of RAM
 
-&nbsp; <i class="fab fa-windows"></i> Windows 10
+&nbsp; <i class="fab fa-windows"></i> Windows Vista(SP2-6.0.6002)
 
 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Note that it may run on lower end equipment though good performance is not guaranteed.
 
@@ -63,9 +63,12 @@ The price of each technical report based on the number of your requested battery
 <strong>Example:</strong>   
 
 If you have <strong>30</strong> different battery containers (The variation just can be in total voltage and the container dimensions), you should email us the above <strong>5</strong> mentioned container specification.
-Then, we will prepare for you a ZIP file includes <strong>30</strong>CSV files of the preferred optimized data with <strong>150</strong> JPEG files of technical drawing and data for the five top optimized configuration. 
+Then, we will prepare for you a ZIP file includes <strong>30</strong> CSV files of the preferred optimized data with <strong>150</strong> JPEG files of technical drawing and data for the five top optimized configuration. 
 The total payment for the process will be <strong>60$ (2$x30)</strong>. 
 Certainly you must download the demo version of the software to better understand the report ordering process.
+
+
+## Payment Options
 
 For the finalizing the purchase process, you should pay the total price by the mentioned gateways in below and email us the payment receipt. 
 We will respond you in Less than <strong>24</strong> hours. 
