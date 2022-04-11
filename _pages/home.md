@@ -40,7 +40,7 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 
 ## Pricing
 
-<i class="fa fa-shopping-cart"></i> Full Version - **450$**
+<i class="fa fa-shopping-cart"></i> Full Version - **500$**
 
 <i class="fa fa-shopping-cart"></i> Report Pack
 
@@ -54,25 +54,27 @@ If you don’t like to buy a full version of the software, you can still use the
 </ol>
 The price of each technical report based on the number of your requested battery container specification is as follows: 
 <ul>
-    <li>Up to 20 different container spec, 2.5$ per report</li>
-    <li>For 21-50 different container spec, 2$ per report</li>
-    <li>For 51-100 different container spec, 1.5$ per report</li>
-    <li>For +100 different container spec, 1$ per report</li>
+<li>For <strong>1-20</strong> different container spec, <strong>2.5$</strong> per report</li>
+<li>For <strong>21-50</strong> different container spec, <strong>2$</strong> per report</li>
+<li>For <strong>51-100</strong> different container spec, <strong>1.5$</strong> per report</li>
+<li>For <strong>+100</strong> different container spec, <strong>1$</strong> per report</li>
 </ul>
-Example:
-If you have 30 different battery containers (The variation just can be in total voltage and the container dimensions), you should email us the above 5 mentioned container specification.
-Then, we will prepare for you a ZIP file includes 30 CSV files of the preferred optimized data with 150 JPEG files of  technical drawing and data  for the five top optimized configuration. 
-The total payment for the process will be 60$  (2$x30). 
+
+<strong>Example:</strong>   
+
+If you have <strong>30</strong> different battery containers (The variation just can be in total voltage and the container dimensions), you should email us the above <strong>5</strong> mentioned container specification.
+Then, we will prepare for you a ZIP file includes <strong>30</strong>CSV files of the preferred optimized data with <strong>150</strong> JPEG files of technical drawing and data for the five top optimized configuration. 
+The total payment for the process will be <strong>60$ (2$x30)</strong>. 
 Certainly you must download the demo version of the software to better understand the report ordering process.
 
 For the finalizing the purchase process, you should pay the total price by the mentioned gateways in below and email us the payment receipt. 
-We will respond you in Less than 24 hours. 
+We will respond you in Less than <strong>24</strong> hours. 
 
 <i class="fab fa-paypal"></i> [PayPal](https://www.paypal.me/pejmansalimi)
 
-<i class="fa fa-wallet"></i> Tether(USDT-TRX)   : xxxx 
+<i class="fa fa-wallet"></i> Tether(TRX-USDT)   : xxxx 
 
-<i class="fa fa-wallet"></i> Tether(USDT-ERC20) : xxxx 
+<i class="fa fa-wallet"></i> Tether(ETH-USDT)   : xxxx 
 
 ## Need Additional Information?
 Feel free to contact us by **email** or **contact form**.
