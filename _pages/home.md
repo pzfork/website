@@ -37,6 +37,7 @@ One of the most important issues for traction battery manufacturers and their us
 
 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> For **PzFORK** targeting **Windows < 10**, the user needs to take special care to include the **Visual C++** run-time .dll. For **Windows Vista** through **Windows 8.1** there are Windows update packages, which may or may not be installed in the target-system. 
 If you encounter an error, download and install [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
+{: .text-justify}
 
 ## Pricing
 
@@ -44,7 +45,9 @@ If you encounter an error, download and install [Visual C++ Redistributable for 
 
 <i class="fa fa-shopping-cart"></i> Report Pack
 
-If you don’t like to buy a full version of the software, you can still use the application by email us your requested forklift battery container specification as following: 
+If you don’t like to buy a full version of the software, you can still use the application by email us your requested forklift battery container specification as following:
+{: .text-justify}
+ 
 <ol>
     <li>Battery brand</li>
     <li>Battery type (PzS/PzB)</li>
@@ -66,18 +69,22 @@ If you have <strong>30</strong> different battery containers (The variation just
 Then, we will prepare for you a ZIP file includes <strong>30</strong> CSV files of the preferred optimized data with <strong>150</strong> JPEG files of technical drawing and data for the five top optimized configuration. 
 The total payment for the process will be <strong>60$ (2$x30)</strong>. 
 Certainly you must download the demo version of the software to better understand the report ordering process.
+{: .text-justify}
 
 
 ## Payment Options
 
 For the finalizing the purchase process, you should pay the total price by the mentioned gateways in below and email us the payment receipt. 
-We will respond you in Less than <strong>24</strong> hours. 
+We will respond you in Less than <strong>24</strong> hours.
+{: .text-justify} 
 
 <i class="fab fa-paypal"></i> [PayPal](https://www.paypal.me/pejmansalimi)
 
-<i class="fa fa-wallet"></i> Tether(TRX-USDT)   : <strong>TJRZxbft3JCgWijuHjQuVLpT22CXGoGw6z</strong>
+<p style="overflow-wrap: break-word;"><i class="fa fa-wallet"></i> Tether(TRX-USDT)   : <strong>TJRZxbft3JCgWijuHjQuVLpT22CXGoGw6z</strong></p>
 
-<i class="fa fa-wallet"></i> Tether(ETH-USDT)   : <strong>0xFB27Ed4eFf0d434D653FEACF8E5755179a8Dcc4d</strong> 
+<p style="overflow-wrap: break-word;"><i class="fa fa-wallet"></i> Tether(ETH-USDT)   : <strong>0xFB27Ed4eFf0d434D653FEACF8E5755179a8Dcc4d</strong></p>
+
+<p style="overflow-wrap: break-word;"><i class="fa fa-wallet"></i> Bitcoin(BTC)   : <strong>13ptSfMqjGLxdxCReRNcJKFWFaR17jn5tv</strong></p> 
 
 ## Need Additional Information?
 Feel free to contact us by **email** or **contact form**.
