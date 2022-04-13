@@ -58,7 +58,7 @@ If you don’t like to buy a full version of the software, you can still use the
 		<li>Width</li>
 		<li>Height</li>
 	</ul>
-    <li>Minimum height tolerance</li>
+    <li>Minimum height tolerance (in <strong>cm</strong>)</li>
 </ol>
 The price of each technical report based on the number of your requested battery container specification is as follows: 
 <ul>
