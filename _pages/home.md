@@ -50,7 +50,7 @@ If you don’t like to buy a full version of the software, you can still use the
  
 <ol>
     <li>Battery brand</li>
-    <li>Battery type (PzS/PzB)</li>
+    <li>Battery type (<strong>PzS</strong>/<strong>PzB</strong>)</li>
     <li>Container voltage</li>
     <li>Dimensions of the container (in <strong>cm</strong>)</li>
 	<ul>
