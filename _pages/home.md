@@ -52,7 +52,12 @@ If you don’t like to buy a full version of the software, you can still use the
     <li>Battery brand</li>
     <li>Battery type (PzS/PzB)</li>
     <li>Container voltage</li>
-    <li>Dimensions of the container (L*W*h in cm)</li>
+    <li>Dimensions of the container (in <strong>cm</strong>)</li>
+	<ul>
+		<li>Length</li>
+		<li>Width</li>
+		<li>Height</li>
+	</ul>
     <li>Minimum height tolerance</li>
 </ol>
 The price of each technical report based on the number of your requested battery container specification is as follows: 
