@@ -53,7 +53,7 @@ algolia:
   powered_by             : #true # true (default), false
 
 # SEO Related
-google_site_verification : #"UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "Kih2I04xGnPMfyTnzc2ORZ3d0slyzWkenEfnarrT6h4" # Replace this with your ID, or delete
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
