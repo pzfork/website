@@ -91,7 +91,7 @@ footer:
       url: "mailto:info@pzfork.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/showcase/pzfork/"
+      url: "https://www.linkedin.com/company/pzfork-co"
 
 atom_feed:
   hide: true
